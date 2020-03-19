@@ -1,0 +1,235 @@
+countryname,iso3c,wbregion,incgroup,lendingcat,last_census,planned_census,time_since_last,planned
+Aruba,ABW,Latin America & Caribbean,High income,,2010,2020,10,1
+Angola,AGO,Sub-Saharan Africa,Lower middle income,IBRD,2014,2024,6,1
+Anguilla,AIA,,,,2011,2021,9,1
+Albania,ALB,Europe & Central Asia,Upper middle income,IBRD,2011,2020,9,1
+Andorra,AND,Europe & Central Asia,High income,,2011,2021,9,1
+United Arab Emirates,ARE,Middle East & North Africa,High income,,2010,2020,10,1
+Argentina,ARG,Latin America & Caribbean,Upper middle income,IBRD,2010,2020,10,1
+Armenia,ARM,Europe & Central Asia,Upper middle income,IBRD,2011,2020,9,1
+American Samoa,ASM,East Asia & Pacific,Upper middle income,,2010,2020,10,1
+Antigua and Barbuda,ATG,Latin America & Caribbean,High income,IBRD,2011,2021,9,1
+Australia,AUS,East Asia & Pacific,High income,,2016,2021,4,1
+Austria,AUT,Europe & Central Asia,High income,,2011,2021,9,1
+Azerbaijan,AZE,Europe & Central Asia,Upper middle income,IBRD,2019,,1,
+Burundi,BDI,Sub-Saharan Africa,Low income,IDA,2008,2022,12,1
+Belgium ,BEL,Europe & Central Asia,High income,,2011,2021,9,1
+Benin,BEN,Sub-Saharan Africa,Low income,IDA,2013,2023,7,1
+Burkina Faso,BFA,Sub-Saharan Africa,Low income,IDA,2019,,1,
+Bangladesh,BGD,South Asia,Lower middle income,IDA,2011,2021,9,1
+Bulgaria,BGR,Europe & Central Asia,Upper middle income,IBRD,2011,2021,9,1
+Bahrain ,BHR,Middle East & North Africa,High income,,2010,2020,10,1
+Bahamas,BHS,Latin America & Caribbean,High income,,2010,2020,10,1
+Bosnia and Herzegovina,BIH,Europe & Central Asia,Upper middle income,IBRD,2013,2023,7,1
+Saint-Barthélemy,BLM,,,,2015,,5,
+Belarus,BLR,Europe & Central Asia,Upper middle income,IBRD,2019,,1,
+Belize,BLZ,Latin America & Caribbean,Upper middle income,IBRD,2010,2020,10,1
+Bermuda,BMU,North America,High income,,2010,2020,10,1
+Bolivia,BOL,Latin America & Caribbean,Lower middle income,IBRD,2012,2022,8,1
+Brazil,BRA,Latin America & Caribbean,Upper middle income,IBRD,2010,2020,10,1
+Barbados,BRB,Latin America & Caribbean,High income,,2010,2020,10,1
+Brunei Darussalam,BRN,East Asia & Pacific,High income,,2011,2021,9,1
+Bhutan,BTN,South Asia,Lower middle income,IDA,2017,,3,
+Botswana,BWA,Sub-Saharan Africa,Upper middle income,IBRD,2011,2021,9,1
+Central African Republic,CAF,Sub-Saharan Africa,Low income,IDA,2003,,17,0
+Canada,CAN,North America,High income,,2016,2021,4,1
+Switzerland ,CHE,Europe & Central Asia,High income,,2010,2020,10,1
+Chile,CHL,Latin America & Caribbean,High income,IBRD,2017,2022,3,1
+China,CHN,East Asia & Pacific,Upper middle income,IBRD,2010,2020,10,1
+Côte d'Ivoire,CIV,Sub-Saharan Africa,Lower middle income,IDA,2014,2020,6,1
+Cameroon,CMR,Sub-Saharan Africa,Lower middle income,Blend,2005,2020,15,1
+Democratic Republic of the Congo,COD,Sub-Saharan Africa,Low income,IDA,,2020,,1
+Congo,COG,Sub-Saharan Africa,Lower middle income,Blend,2007,2020,13,1
+Cook Islands,COK,,,,2016,,4,
+Colombia,COL,Latin America & Caribbean,Upper middle income,IBRD,2018,,2,
+Comoros,COM,Sub-Saharan Africa,Lower middle income,IDA,2017,,3,
+Cape Verde,CPV,Sub-Saharan Africa,Lower middle income,Blend,2010,2020,10,1
+Costa Rica,CRI,Latin America & Caribbean,Upper middle income,IBRD,2011,2021,9,1
+Cuba,CUB,Latin America & Caribbean,Upper middle income,,2012,2022,8,1
+Curaçao,CUW,Latin America & Caribbean,High income,,,2021,,1
+Cayman Islands,CYM,Latin America & Caribbean,High income,,2010,2020,10,1
+Cyprus,CYP,Europe & Central Asia,High income,,2011,2021,9,1
+Czechia ,CZE,Europe & Central Asia,High income,,2011,2021,9,1
+Germany (8) (18),DEU,Europe & Central Asia,High income,,2011,2021,9,1
+Djibouti,DJI,Middle East & North Africa,Lower middle income,IDA,2009,2020,11,1
+Dominica,DMA,Latin America & Caribbean,Upper middle income,Blend,2011,2021,9,1
+Denmark ,DNK,Europe & Central Asia,High income,,2011,2021,9,1
+Dominican Republic,DOM,Latin America & Caribbean,Upper middle income,IBRD,2010,2020,10,1
+Algeria,DZA,Middle East & North Africa,Upper middle income,IBRD,2008,2020,12,1
+Ecuador,ECU,Latin America & Caribbean,Upper middle income,IBRD,2010,2020,10,1
+Egypt,EGY,Middle East & North Africa,Lower middle income,IBRD,2017,,3,
+Spain ,ESP,Europe & Central Asia,High income,,2011,2021,9,1
+Estonia ,EST,Europe & Central Asia,High income,,2012,2021,8,1
+Ethiopia,ETH,Sub-Saharan Africa,Low income,IDA,2007,2020,13,1
+Finland ,FIN,Europe & Central Asia,High income,,2010,2020,10,1
+Fiji,FJI,East Asia & Pacific,Upper middle income,Blend,2017,,3,
+Falkland Islands (Malvinas),FLK,,,,2016,,4,
+France,FRA,Europe & Central Asia,High income,,2016,,4,
+Faroe Islands,FRO,Europe & Central Asia,High income,,2011,2021,9,1
+"Micronesia, Federated States of",FSM,East Asia & Pacific,Lower middle income,IDA,2010,2020,10,1
+Gabon,GAB,Sub-Saharan Africa,Upper middle income,IBRD,2013,2023,7,1
+United Kingdom,GBR,Europe & Central Asia,High income,,2011,2021,9,1
+Georgia,GEO,Europe & Central Asia,Upper middle income,IBRD,2014,2024,6,1
+Guernsey,GGY,,,,2015,,5,
+Ghana,GHA,Sub-Saharan Africa,Lower middle income,IDA,2010,2020,10,1
+Gibraltar,GIB,Europe & Central Asia,High income,,2012,2022,8,1
+Guinea,GIN,Sub-Saharan Africa,Low income,IDA,2014,2024,6,1
+Guadeloupe,GLP,,,,2016,,4,
+Gambia,GMB,Sub-Saharan Africa,Low income,IDA,2013,2023,7,1
+Guinea Bissau,GNB,Sub-Saharan Africa,Low income,IDA,2009,2021,11,1
+Equatorial Guinea,GNQ,Sub-Saharan Africa,Upper middle income,IBRD,2015,,5,
+Greece,GRC,Europe & Central Asia,High income,,2011,2021,9,1
+Grenada,GRD,Latin America & Caribbean,Upper middle income,Blend,2011,2021,9,1
+Greenland ,GRL,Europe & Central Asia,High income,,2011,2020,9,1
+Guatemala,GTM,Latin America & Caribbean,Upper middle income,IBRD,2018,,2,
+French Guiana,GUF,,,,2016,,4,
+Guam,GUM,East Asia & Pacific,High income,,2010,2020,10,1
+Guyana,GUY,Latin America & Caribbean,Upper middle income,IDA,2012,2022,8,1
+China - Hong Kong SAR,HKG,East Asia & Pacific,High income,,2016,2021,4,1
+Honduras,HND,Latin America & Caribbean,Lower middle income,IDA,2013,2023,7,1
+Croatia,HRV,Europe & Central Asia,High income,IBRD,2011,2021,9,1
+Haiti,HTI,Latin America & Caribbean,Low income,IDA,2003,2020,17,1
+Hungary,HUN,Europe & Central Asia,High income,,2011,2021,9,1
+Indonesia,IDN,East Asia & Pacific,Lower middle income,IBRD,2010,2020,10,1
+Isle of Man,IMN,Europe & Central Asia,High income,,2016,2021,4,1
+India,IND,South Asia,Lower middle income,IBRD,2011,2021,9,1
+Ireland,IRL,Europe & Central Asia,High income,,2016,2021,4,1
+"Iran, Islamic Republic of",IRN,Middle East & North Africa,Upper middle income,IBRD,2016,2021,4,1
+Iraq,IRQ,Middle East & North Africa,Upper middle income,IBRD,1997,,23,0
+Iceland ,ISL,Europe & Central Asia,High income,,2011,2021,9,1
+Israel ,ISR,Middle East & North Africa,High income,,2009,2020,11,1
+Italy ,ITA,Europe & Central Asia,High income,,2012,2021,8,1
+Jamaica,JAM,Latin America & Caribbean,Upper middle income,IBRD,2011,2021,9,1
+Jersey,JEY,,,,2011,2021,9,1
+Jordan,JOR,Middle East & North Africa,Upper middle income,IBRD,2015,,5,
+Japan,JPN,East Asia & Pacific,High income,,2015,2020,5,1
+Kazakhstan,KAZ,Europe & Central Asia,Upper middle income,IBRD,2009,2020,11,1
+Kenya,KEN,Sub-Saharan Africa,Lower middle income,Blend,2009,2019,11,1
+Kyrgyzstan,KGZ,Europe & Central Asia,Lower middle income,IDA,2009,2020,11,1
+Cambodia,KHM,East Asia & Pacific,Lower middle income,IDA,2019,,1,
+Kiribati,KIR,East Asia & Pacific,Lower middle income,IDA,2015,,5,
+St. Kitts and Nevis,KNA,Latin America & Caribbean,High income,IBRD,2011,2021,9,1
+"Korea, Republic of",KOR,East Asia & Pacific,High income,,2015,2020,5,1
+Kuwait,KWT,Middle East & North Africa,High income,,2011,2020,9,1
+Lao People's Democratic Republic,LAO,East Asia & Pacific,Lower middle income,IDA,2015,,5,
+Liberia,LBR,Sub-Saharan Africa,Low income,IDA,2008,2020,12,1
+Libya Arab Jamahiriya,LBY,Middle East & North Africa,Upper middle income,IBRD,2006,,14,0
+St. Lucia,LCA,Latin America & Caribbean,Upper middle income,Blend,2010,2020,10,1
+Liechtenstein ,LIE,Europe & Central Asia,High income,,2015,2020,5,1
+Sri Lanka,LKA,South Asia,Upper middle income,IBRD,2012,2021,8,1
+Lesotho,LSO,Sub-Saharan Africa,Lower middle income,IDA,2016,,4,
+Lithuania ,LTU,Europe & Central Asia,High income,,2011,2020,9,1
+Luxembourg,LUX,Europe & Central Asia,High income,,2011,2021,9,1
+Latvia ,LVA,Europe & Central Asia,High income,,2011,2021,9,1
+China - Macao SAR,MAC,East Asia & Pacific,High income,,2016,2021,4,1
+Saint-Martin,MAF,Latin America & Caribbean,High income,,2015,,5,
+Morocco,MAR,Middle East & North Africa,Lower middle income,IBRD,2014,2024,6,1
+Monaco ,MCO,Europe & Central Asia,High income,,2016,,4,
+Republic of Moldova,MDA,Europe & Central Asia,Lower middle income,Blend,2014,2023,6,1
+Madagascar,MDG,Sub-Saharan Africa,Low income,IDA,2018,,2,
+Maldives,MDV,South Asia,Upper middle income,IDA,2014,2024,6,1
+Mexico,MEX,Latin America & Caribbean,Upper middle income,IBRD,2010,2020,10,1
+Marshall Islands,MHL,East Asia & Pacific,Upper middle income,IDA,2011,2020,9,1
+North Macedonia,MKD,Europe & Central Asia,Upper middle income,IBRD,2002,2020,18,1
+Mali,MLI,Sub-Saharan Africa,Low income,IDA,2009,2020,11,1
+Malta,MLT,Middle East & North Africa,High income,,2011,2021,9,1
+Myanmar,MMR,East Asia & Pacific,Lower middle income,IDA,2014,2024,6,1
+Montenegro,MNE,Europe & Central Asia,Upper middle income,IBRD,2011,2021,9,1
+Mongolia,MNG,East Asia & Pacific,Lower middle income,Blend,2020,,0,
+Northern Mariana Islands,MNP,East Asia & Pacific,High income,,2010,2020,10,1
+Mozambique,MOZ,Sub-Saharan Africa,Low income,IDA,2017,,3,
+Mauritania,MRT,Sub-Saharan Africa,Lower middle income,IDA,2013,2023,7,1
+Montserrat,MSR,,,,2011,2021,9,1
+Martinique,MTQ,,,,2016,,4,
+Mauritius,MUS,Sub-Saharan Africa,Upper middle income,IBRD,2011,2020,9,1
+Malawi,MWI,Sub-Saharan Africa,Low income,IDA,2018,,2,
+Malaysia,MYS,East Asia & Pacific,Upper middle income,IBRD,2010,2020,10,1
+Mayotte,MYT,,,,2017,,3,
+Namibia,NAM,Sub-Saharan Africa,Upper middle income,IBRD,2011,2021,9,1
+New Caledonia,NCL,East Asia & Pacific,High income,,2019,,1,
+Niger,NER,Sub-Saharan Africa,Low income,IDA,2012,2021,8,1
+Norfolk Island,NFK,,,,2016,,4,
+Nigeria,NGA,Sub-Saharan Africa,Lower middle income,Blend,2006,2020,14,1
+Nicaragua,NIC,Latin America & Caribbean,Lower middle income,IDA,2005,2020,15,1
+Niue,NIU,,,,2017,2021,3,1
+Netherlands ,NLD,Europe & Central Asia,High income,,2011,2021,9,1
+Norway ,NOR,Europe & Central Asia,High income,,2011,2021,9,1
+Nepal,NPL,South Asia,Low income,IDA,2011,2021,9,1
+Nauru,NRU,East Asia & Pacific,Upper middle income,IBRD,2011,2021,9,1
+New Zealand,NZL,East Asia & Pacific,High income,,2018,,2,
+Oman,OMN,Middle East & North Africa,High income,,2010,2020,10,1
+Pakistan,PAK,South Asia,Lower middle income,Blend,2017,,3,
+Panama,PAN,Latin America & Caribbean,High income,IBRD,2010,2020,10,1
+Pitcairn (11),PCN,,,,2015,,5,
+Peru,PER,Latin America & Caribbean,Upper middle income,IBRD,2017,,3,
+Philippines,PHL,East Asia & Pacific,Lower middle income,IBRD,2015,2020,5,1
+Palau,PLW,East Asia & Pacific,High income,IBRD,2015,,5,
+Papua New Guinea,PNG,East Asia & Pacific,Lower middle income,Blend,2011,2020,9,1
+Poland ,POL,Europe & Central Asia,High income,IBRD,2011,2021,9,1
+Puerto Rico,PRI,Latin America & Caribbean,High income,,2010,2020,10,1
+"Korea, Democratic People's Republic of",PRK,East Asia & Pacific,Low income,,2019,,1,
+Portugal,PRT,Europe & Central Asia,High income,,2011,2021,9,1
+Paraguay,PRY,Latin America & Caribbean,Upper middle income,IBRD,2012,2022,8,1
+"Palestine, State of",PSE,Middle East & North Africa,Lower middle income,,2017,,3,
+French Polynesia,PYF,East Asia & Pacific,High income,,2017,,3,
+Qatar,QAT,Middle East & North Africa,High income,,2015,2020,5,1
+Réunion,REU,,,,2016,,4,
+Romania,ROU,Europe & Central Asia,Upper middle income,IBRD,2011,2021,9,1
+Russian Federation,RUS,Europe & Central Asia,Upper middle income,IBRD,2010,2020,10,1
+Rwanda,RWA,Sub-Saharan Africa,Low income,IDA,2012,2022,8,1
+Saudi Arabia,SAU,Middle East & North Africa,High income,,2010,2020,10,1
+Sudan,SDN,Sub-Saharan Africa,Lower middle income,IDA,2008,2020,12,1
+Senegal,SEN,Sub-Saharan Africa,Lower middle income,IDA,2013,2023,7,1
+Singapore ,SGP,East Asia & Pacific,High income,,2010,2020,10,1
+Saint Helena ex. dep.,SHN,,,,2016,,4,
+Svalbard and Jan Mayen Islands ,SJM,,,,2011,2021,9,1
+Solomon Islands,SLB,East Asia & Pacific,Lower middle income,IDA,2019,,1,
+Sierra Leone,SLE,Sub-Saharan Africa,Low income,IDA,2015,,5,
+El Salvador,SLV,Latin America & Caribbean,Lower middle income,IBRD,2007,2022,13,1
+San Marino,SMR,Europe & Central Asia,High income,,2010,2020,10,1
+Somalia,SOM,Sub-Saharan Africa,Low income,IDA,1987,,33,0
+St. Pierre and Miquelon,SPM,,,,2015,,5,
+Serbia,SRB,Europe & Central Asia,Upper middle income,IBRD,2011,2021,9,1
+South Sudan,SSD,Sub-Saharan Africa,Low income,IDA,2008,,12,0
+Sao Tomé and Principé,STP,Sub-Saharan Africa,Lower middle income,IDA,2012,2022,8,1
+Suriname,SUR,Latin America & Caribbean,Upper middle income,IBRD,2012,2022,8,1
+Slovakia,SVK,Europe & Central Asia,High income,,2011,2021,9,1
+Slovenia,SVN,Europe & Central Asia,High income,,2018,2021,2,1
+Sweden ,SWE,Europe & Central Asia,High income,,2011,2021,9,1
+Eswatini,SWZ,Sub-Saharan Africa,Lower middle income,IBRD,2017,,3,
+Sint Maarten,SXM,Latin America & Caribbean,High income,,,2021,,1
+Seychelles,SYC,Sub-Saharan Africa,High income,IBRD,2010,2020,10,1
+Syrian Arab Republic,SYR,Middle East & North Africa,Low income,IDA,2004,,16,0
+Turks and Caicos Islands,TCA,Latin America & Caribbean,High income,,2012,2022,8,1
+Chad,TCD,Sub-Saharan Africa,Low income,IDA,2009,2021,11,1
+Togo,TGO,Sub-Saharan Africa,Low income,IDA,2010,2020,10,1
+Thailand,THA,East Asia & Pacific,Upper middle income,IBRD,2010,2020,10,1
+Tajikistan,TJK,Europe & Central Asia,Low income,IDA,2010,2020,10,1
+Tokelau,TKL,,,,2016,2021,4,1
+Turkmenistan,TKM,Europe & Central Asia,Upper middle income,IBRD,2012,2022,8,1
+Timor-Leste,TLS,East Asia & Pacific,Lower middle income,Blend,2015,,5,
+Tonga,TON,East Asia & Pacific,Upper middle income,IDA,2016,2021,4,1
+Trinidad and Tobago,TTO,Latin America & Caribbean,High income,IBRD,2011,2021,9,1
+Tunisia,TUN,Middle East & North Africa,Lower middle income,IBRD,2014,2024,6,1
+Turkey ,TUR,Europe & Central Asia,Upper middle income,IBRD,2011,2021,9,1
+Tuvalu,TUV,East Asia & Pacific,Upper middle income,IDA,2012,2022,8,1
+United Republic of Tanzania,TZA,Sub-Saharan Africa,Low income,IDA,2012,2022,8,1
+Uganda,UGA,Sub-Saharan Africa,Low income,IDA,2014,2024,6,1
+Ukraine,UKR,Europe & Central Asia,Lower middle income,IBRD,2001,2020,19,1
+Uruguay,URY,Latin America & Caribbean,High income,IBRD,2011,2021,9,1
+United States of America,USA,North America,High income,,2010,2020,10,1
+Uzbekistan,UZB,Europe & Central Asia,Lower middle income,Blend,1989,2022,31,1
+Holy See,VAT,,,,2009,2020,11,1
+St. Vincent and the Grenadines,VCT,Latin America & Caribbean,Upper middle income,Blend,2012,2021,8,1
+Venezuela,VEN,Latin America & Caribbean,Upper middle income,IBRD,2011,2021,9,1
+British Virgin Islands,VGB,Latin America & Caribbean,High income,,2010,2020,10,1
+United States Virgin Islands,VIR,Latin America & Caribbean,High income,,2010,2020,10,1
+Viet Nam,VNM,East Asia & Pacific,Lower middle income,IBRD,2019,,1,
+Vanuatu,VUT,East Asia & Pacific,Lower middle income,IDA,2016,2020,4,1
+Wallis and Futuna Islands,WLF,,,,2018,,2,
+Samoa,WSM,East Asia & Pacific,Upper middle income,IDA,2016,2020,4,1
+Yemen,YEM,Middle East & North Africa,Low income,IDA,2004,,16,0
+South Africa,ZAF,Sub-Saharan Africa,Upper middle income,IBRD,2011,2021,9,1
+Zambia,ZMB,Sub-Saharan Africa,Lower middle income,IDA,2010,2020,10,1
+Zimbabwe,ZWE,Sub-Saharan Africa,Lower middle income,Blend,2012,2022,8,1
+Netherlands Antilles,,,,,2001,,19,0
