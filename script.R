@@ -1,10 +1,14 @@
 library(rvest)
 library(tidyverse)
 
-# Address
+### Prepare files/information ############################# 
+
+# Address (Last updated on 26 February 2020)
 census <- "https://unstats.un.org/unsd/demographic-social/census/censusdates/"
 
 # Import income groups
+# Current classification by income (and other groups) from link in third paragraph
+# https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups
 incgroups <- read_csv("WB incomegroups Jun2019.csv", skip = 4) %>%
   filter(Region!="x", !is.na(Region)) %>%
   select(wb_country = Economy, iso3c = Code, wbregion = Region, incgroup = `Income group`, lendingcat = `Lending category`) %>%
@@ -13,6 +17,8 @@ incgroups <- read_csv("WB incomegroups Jun2019.csv", skip = 4) %>%
 
 # Create vector of regions:
 regions <- c("Africa", "North", "South", "Asia", "Europe", "Oceania")
+
+### Scrape ############################# 
 
 # Download page
 webpage <- census %>%
@@ -38,7 +44,8 @@ for (r in regions){
     
   }}
 
-# Clean up
+### Clean up file ############################# 
+
 df <- df %>%
   # Remove headers that have been imported with first line of every region
   mutate(countryname = str_remove(countryname, "(AFRICA|AMERICA, NORTH|AMERICA, SOUTH|ASIA|EUROPE|OCEANIA)\\s*Countries or areas"),
@@ -134,6 +141,8 @@ df <- df %>%
   # Merge in region and income groups
   left_join(incgroups)
 
+### Create other useful file(s) ############################# 
+
 # Create df of years since last census
 last_census <- df %>%
   # Keep only last year of actual census
@@ -163,8 +172,8 @@ last_census <- df %>%
          )) %>%
   rename(last_census = year0, planned_census = year1)
 
+### Export files to CSV to share ############################# 
 
-# Export to CSV to share
 df %>%
   # Add a space in front of dates so Excel doesn't auto-format
   mutate(date = str_c(" ", date),
@@ -177,6 +186,7 @@ df %>%
   select(countryname, iso3c, wbregion, incgroup, lendingcat, census_round, date, year, planned, notes) %>%
   arrange(iso3c, year) %>%
   write_csv("full census dataset.csv", na = "")
+
 last_census %>%
   arrange(iso3c) %>%
   write_csv("last census.csv", na = "")
