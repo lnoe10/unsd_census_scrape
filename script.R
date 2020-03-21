@@ -132,12 +132,8 @@ df <- df %>%
            countryname == "Saint-Martin" ~ "MAF",
            TRUE ~ iso3c
          )) %>%
-  # Drop years where there was no census (census == NA)
-  # This drops Afghanistan 2010 obs, where census is incomplete
-  # North Macedonia 2010, which was cancelled
-  # Andorra, San Marino and Holy See obs (which have censuses in other year)
-  # but who only have info that "Population figures compiled from administrative registers."
-  filter(!is.na(year)) %>%
+  # Drop extra observations that were imported. (From cases where there were two or more lines per country)
+  filter(date != "") %>%
   # Merge in region and income groups
   left_join(incgroups)
 
